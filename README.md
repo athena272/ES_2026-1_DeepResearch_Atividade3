@@ -33,7 +33,7 @@ A investigação segue quatro eixos, e **cada item** é apresentado no formato: 
 | 2 | A | CI/CD, automação e cobertura | _a definir_ | [docs/parte2-cicd-cobertura.md](docs/parte2-cicd-cobertura.md) |
 | 3 | C | Dependências externas (LLM/API) sem isolamento para teste | _a definir_ | [docs/parte3-dependencias-isolamento.md](docs/parte3-dependencias-isolamento.md) |
 | 4 | B | Qualidade técnica dos testes | Guilherme Rosário Alves | [docs/parte4-qualidade-tecnica.md](docs/parte4-qualidade-tecnica.md) · [evidências](assets/parte4/README.md) |
-| 5 | C | Lacunas e riscos em módulos críticos | _a definir_ | [docs/parte5-lacunas-riscos.md](docs/parte5-lacunas-riscos.md) |
+| 5 | C | Lacunas e riscos em módulos críticos | Brenno Phelipe Silva dos Santos | [docs/parte5-lacunas-riscos.md](docs/parte5-lacunas-riscos.md) |
 | 6 | D | Plano de evolução da qualidade | _a definir_ | [docs/parte6-plano-evolucao.md](docs/parte6-plano-evolucao.md) |
 
 > Demais atribuições serão definidas pela equipe. Parte 4 já desenvolvida (com dossiê de evidências em [assets/parte4/](assets/parte4/README.md)).
