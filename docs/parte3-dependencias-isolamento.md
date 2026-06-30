@@ -1,7 +1,5 @@
 # Parte 3 — Eixo C: Dependências externas (LLM/API) sem isolamento para teste
 
-> Formato obrigatório por item: **(a) Evidência · (b) Diagnóstico · (c) Risco · (d) Recomendação**
-
 ## Responsável
 
 Davi EManuel de Menezes Costa
