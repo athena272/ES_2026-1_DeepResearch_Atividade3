@@ -30,7 +30,7 @@ A investigação segue quatro eixos, e **cada item** é apresentado no formato: 
 | Parte | Eixo | Tema | Responsável | Documento |
 |-------|------|------|-------------|-----------|
 | 1 | A | Estrutura e tipos de teste | _a definir_ | [docs/parte1-estrategia-estrutura.md](docs/parte1-estrategia-estrutura.md) |
-| 2 | A | CI/CD, automação e cobertura | _a definir_ | [docs/parte2-cicd-cobertura.md](docs/parte2-cicd-cobertura.md) |
+| 2 | A | CI/CD, automação e cobertura | Alisson Francisco dos Santos | [docs/parte2-cicd-cobertura.md](docs/parte2-cicd-cobertura.md) |
 | 3 | C | Dependências externas (LLM/API) sem isolamento para teste | Davi Emanuel de Menezes Costa | [docs/parte3-dependencias-isolamento.md](docs/parte3-dependencias-isolamento.md) |
 | 4 | B | Qualidade técnica dos testes | Guilherme Rosário Alves | [docs/parte4-qualidade-tecnica.md](docs/parte4-qualidade-tecnica.md) · [evidências](assets/parte4/README.md) |
 | 5 | C | Lacunas e riscos em módulos críticos | Brenno Phelipe Silva dos Santos | [docs/parte5-lacunas-riscos.md](docs/parte5-lacunas-riscos.md) |
