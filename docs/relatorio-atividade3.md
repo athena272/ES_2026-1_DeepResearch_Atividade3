@@ -294,5 +294,3 @@ O plano de evolução (Eixo D) propõe um caminho **realista e incremental**: co
 **Documentos individuais:** [parte1](parte1-estrategia-estrutura.md) · [parte2](parte2-cicd-cobertura.md) · [parte3](parte3-dependencias-isolamento.md) · [parte4](parte4-qualidade-tecnica.md) · [parte5](parte5-lacunas-riscos.md) · [parte6](parte6-plano-evolucao.md)
 
 **Evidências visuais:** [assets/parte4/](../assets/parte4/README.md)
-
-_Revisão conjunta do documento e do repositório antes da entrega em PDF._
